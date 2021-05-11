@@ -1,0 +1,10 @@
+{
+  "question": {
+    "status": {
+      "1": "created",
+      "2": "started",
+      "3": "answered"
+    },
+    "expiration": 60
+  }
+}
